@@ -1,2 +1,4 @@
+AGREGADO DE 1.0
+
 escribiendo en prueba2.txt
 esto es una prueba.
