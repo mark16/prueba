@@ -1,0 +1,2 @@
+escribiendo en prueba2.txt
+esto es una prueba.
